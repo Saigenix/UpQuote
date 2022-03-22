@@ -6,8 +6,8 @@ ORANGE: '#DC7633',
 PURPLE: '#8E44AD',
 GRAY: '#566573',
 pink: '#E74C3C',
-bg : "#22262f",
-txt : "#C33364",
+bg : "#EEEDDE",
+txt : "#141E27",
 txtf :"#9CA3A6",
 qoutebackground : "#2FE1D6"
 }
